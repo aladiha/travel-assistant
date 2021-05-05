@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+venv/
+config.py
+telegram-hackathon-travel-assistant
+
+
